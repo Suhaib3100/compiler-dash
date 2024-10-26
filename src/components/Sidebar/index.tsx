@@ -87,8 +87,8 @@ const menuGroups = [
             />
           </svg>
         ),
-        label: "Calendar",
-        route: "/calendar",
+        label: "Compiler",
+        route: "/Compiler",
       },
       {
         icon: (
